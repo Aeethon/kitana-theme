@@ -1,9 +1,8 @@
 @import url("https://aeethon.github.io/kitana-theme/kitana.css")
 
    
-.theme-dark,
-.theme-light,
-:root {
+theme-dark;
+:root{
    --background-primary: #2E303E   !important;
    --background-secondary: #232530   !important;
    --background-secondary-alt: #1C1E26 !important;
@@ -38,6 +37,9 @@
 }
 
 
+.auto-Ge5KZx, .auto-Ge5KZx.fade-2kXiP2:hover, .auto-Ge5KZx.scrolling-1Cdwk-{
+  background-color: #2E303E;
+}
 
 .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6{
   background-color: #232530;
@@ -531,5 +533,4 @@ div.userInfoSection-2acyCx {padding:10px 0px}
 
 
   
-
 
