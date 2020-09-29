@@ -16,7 +16,7 @@
 Um Tema relativo ao Dracula, em desenvolvimento /Updates/Bugs/!!!
 ```
 ```css
-@import url("https://aeethon.github.io/kitana-theme/kitana-theme/kitana.css")
+@import url("https://aeethon.github.io/kitana-theme/kitana.css")
 ```
 
 ![Screenshot_1](https://cdn.discordapp.com/attachments/712090790016450682/751934116148019240/unknown.png)
