@@ -1,7 +1,7 @@
 @import url("https://aeethon.github.io/kitana-theme/kitana.css");
 
    
-.theme-dark
+.theme-dark,
 :root{
    --background-primary: #2E303E   !important;
    --background-secondary: #232530   !important;
@@ -903,4 +903,3 @@ div.userInfoSection-2acyCx {padding:10px 0px}
   [data-user-id*="492134292634337295"] {
     --user-background: url('https://i.imgur.com/k26pnhz.gif');
   }
-  
