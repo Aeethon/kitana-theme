@@ -546,12 +546,12 @@ div.userInfoSection-2acyCx {padding:10px 0px}
   
   /* Dropdown Menu */
   
-  div[id="message-actions"] {
+  div#message-actions {
     min-width: 0px;
     width: 57px;
     transition: 1s;
   }
-  div[id="message-actions"]:hover {
+  div#message-actions:hover {
     min-width: 0px;
     width: 200px;
     transition: 0.5s;
